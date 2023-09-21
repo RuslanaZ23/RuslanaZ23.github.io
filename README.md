@@ -7,3 +7,5 @@ my Site
 
 </body>
 </html>
+[cторінка 10.txt](https://github.com/RuslanaZ23/RuslanaZ23.github.io/files/12689024/c.10.txt)
+[cторінка 10.txt](https://github.com/RuslanaZ23/RuslanaZ23.github.io/files/12689018/c.10.txt)
