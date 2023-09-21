@@ -1,0 +1,10 @@
+
+<!doctype html> 
+<html> 
+<head>
+<title>Мой первый сайт </title>
+</head>
+<body>
+        <font color=“green” size=7>  Привет! Это моя первая веб-страница!</font> 
+</body>
+</html>
